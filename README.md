@@ -1,0 +1,2 @@
+# timitPytorch
+recognize phonemes 
